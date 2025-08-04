@@ -1,6 +1,13 @@
-🔥 VulcanForge
-Brothers forging Python skills from the ground up.
+# Python Learning Journey
 
-From "Hello World" to full projects, we’re crafting code like Vulcan—hammering basics into tools, scripts, and experiments. Progress, notes, and chaos documented here.
+Repository for [Your Name] and [Brother's Name] to learn Python together.
 
-No gods were harmed (just our keyboards).
+## Goals
+1. Learn Python fundamentals
+2. Build small projects
+3. Collaborate using Git/GitHub
+
+## Structure
+- `basics/`: Core Python concepts
+- `projects/`: Collaborative projects
+- `notes/`: Shared learning notes
