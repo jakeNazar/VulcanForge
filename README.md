@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-Repository for [Your Name] and [Brother's Name] to learn Python together.
+Repository for Jake and Sage to learn Python together.
 
 ## Goals
 1. Learn Python fundamentals
