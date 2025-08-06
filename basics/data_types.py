@@ -77,3 +77,62 @@ print(value)
 # Creating a bytearray by encoding a string
 val = bytearray("Hello", 'utf-8')  
 print(val)  
+
+#Dictionary data type
+'''
+  Python dictionary consist of key:value pairs. 
+  The pairs are separated by comma and put inside curly brackets {}. 
+  To establish mapping between key and value, the ':' symbol is put between the two.
+  Dictionaries are enclosed by curly braces {}.
+  Values can be assigned and accessed using square braces [] braces.
+'''
+dict = {}
+dict['one'] = "This is one"
+dict[2]     = "This is two"
+
+tinydict = {'name': 'john','code':6734, 'dept': 'sales'}
+
+
+print (dict['one'])       # Prints value for 'one' key
+print (dict[2])           # Prints value for 2 key
+print (tinydict)          # Prints complete dictionary
+print (tinydict.keys())   # Prints all the keys
+print (tinydict.values()) # Prints all the values
+
+#Boolean data type
+
+a = True
+# display the value of a
+print(a)
+
+# display the data type of a
+print(type(a))
+
+#Data conversion
+
+print("Conversion to integer data type")
+a = int(1)     # a will be 1
+b = int(2.2)   # b will be 2
+c = int("3.3")   # c will be 3
+
+print (a)
+print (b)
+print (c)
+
+print("Conversion to floating point number")
+a = float(1)     # a will be 1.0
+b = float(2.2)   # b will be 2.2
+c = float("3.3") # c will be 3.3
+
+print (a)
+print (b)
+print (c)
+
+print("Conversion to string")
+a = str(1)     # a will be "1" 
+b = str(2.2)   # b will be "2.2"
+c = str("3.3") # c will be "3.3"
+
+print (a)
+print (b)
+print (c)
